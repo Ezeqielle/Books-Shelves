@@ -5,7 +5,7 @@ const { parseTile, parseUrl, parseChap, parseLang, parseStatus } = require("./pa
 
 // read the file sample.txt
 const rl = readline.createInterface({
-  input: fs.createReadStream("sample.txt"),
+  input: fs.createReadStream("books.md"),
 });
 
 let books = [];
