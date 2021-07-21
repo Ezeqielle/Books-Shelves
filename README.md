@@ -1,6 +1,6 @@
-# Markdown2JSON
+# Books Shelves
 
-Markdown2JSON repository
+Books Shelves repository
 
 # For devs
 
